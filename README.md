@@ -5,7 +5,7 @@
 </h1>
 
 # 💫 About Me:
-🔭 I’m currently working on Myself<br>👯 I’m looking to collaborate on building projects to help small scale agriculture sector,complex but effecient code<br>🤝 I’m looking for help with my metal state regrading studies and keeping my self motivated to continue studies<br>🌱 I’m currently learning docker,c#,Python,Servers,Scalability,Darkweb,.onion,gui,apis,everything as much as i can<br>💬 Ask me about electronic,devboards,opensource alternatives ,solutions to problem at basic level<br>⚡ Fun fact I live in a girls hostel
+##🔭 I’m currently working on Myself<br>👯 I’m looking to collaborate on building projects to help small scale agriculture sector,complex but effecient code<br>🤝 I’m looking for help with my metal state regrading studies and keeping my self motivated to continue studies<br>🌱 I’m currently learning docker,c#,Python,Servers,Scalability,Darkweb,.onion,gui,apis,everything as much as i can<br>💬 Ask me about electronic,devboards,opensource alternatives ,solutions to problem at basic level<br>⚡ Fun fact I live in a girls hostel
 
 
 ## 🌐 Socials:
@@ -18,8 +18,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=statictesseract07&theme=vue-dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=statictesseract07&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=statictesseract07&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
