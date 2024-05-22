@@ -1,4 +1,4 @@
-
+![github-contribution-grid-snake-dark](https://github.com/StaticTesseract07/StaticTesseract07/assets/122696470/41aff6b0-bc71-45f3-8478-ff6a55043f60)
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mihir+Parmar!;" />
 </h1>
@@ -18,8 +18,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=statictesseract07&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
-
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
