@@ -16,7 +16,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=statictesseract07&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=statictesseract07&theme=vue-dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=statictesseract07&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ![github-contribution-grid-snake-dark](https://github.com/StaticTesseract07/StaticTesseract07/assets/122696470/41aff6b0-bc71-45f3-8478-ff6a55043f60)
 
@@ -24,6 +23,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=statictesseract07&icon=7&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
