@@ -1,4 +1,9 @@
 ## Hi there 👋
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mihir+Parmar!;" />
+</h1>
+
 # 💫 About Me:
 🔭 I’m currently working on Myself<br>👯 I’m looking to collaborate on building projects to help small scale agriculture sector,complex but effecient code<br>🤝 I’m looking for help with my metal state regrading studies and keeping my self motivated to continue studies<br>🌱 I’m currently learning docker,c#,Python,Servers,Scalability,Darkweb,.onion,gui,apis,everything as much as i can<br>💬 Ask me about electronic,devboards,opensource alternatives ,solutions to problem at basic level<br>⚡ Fun fact I live in a girls hostel
 
