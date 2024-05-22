@@ -18,8 +18,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=statictesseract07&theme=vue-dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=statictesseract07&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=statictesseract07&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=statictesseract07&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
