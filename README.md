@@ -70,11 +70,6 @@
                                                                  / /
 </pre>
 
-
-<pre>  
- 
-</pre>
-
 ![github-contribution-grid-snake-dark](https://github.com/StaticTesseract07/StaticTesseract07/assets/122696470/41aff6b0-bc71-45f3-8478-ff6a55043f60)
 
 ---
@@ -82,6 +77,6 @@
 [![](https://visitcount.itsvg.in/api?id=statictesseract07&icon=7&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/statictesseract) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@MihiroParmar) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/statictesseract) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/MihiroParmar) 
 
   
