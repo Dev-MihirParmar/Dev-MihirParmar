@@ -19,10 +19,10 @@
 
 # 💫 About Me:
 **🚀 Founder & Research-Driven Tech Polymath — self-taught dropout with a passion for innovation<br>
-🛠️ Work across Embedded Linux, Networking, UAVs, Robotics, IIoT, and AI/ML<br>
-🧠 Critical Thinker & Experimenter — from backend to frontend, Linux infrastructure, and system pipelines<br>
+🛠️ Work across Embedded Linux, Electronic , Networking, UAVs, Robotics, IIoT, Hadware and AI/ML<br>
+🧠 Critical Thinker & Experimenter — from backend to frontend, End to End Design , System Architect & Linux infrastructure<br>
 🔍 Skilled in research, reverse engineering, and deep system analysis<br>
-⚙️ Experienced with DevOps, server building/management, and self-hosting<br>
+⚙️ Experienced with DevOps, server building/management, self-hosting , Microcontroller & electronics Hardware<br>
 🤖 Explore everything from hosting & fine-tuning LLMs to complex embedded solutions<br>
 🎨 Strong in product design, interface design, and systems architecture<br>
 🔗 Bridge software ↔ hardware ↔ electronics to build reliable, high-impact solutions<br>
@@ -32,8 +32,7 @@
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/invite/9VBDTG3k) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/static_tesseract_07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mihir-parmar-3909b2274) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Mihir.Parmarofficial) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/mihirparmarofficial) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Mihir-Parmar-227) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/24640309/mihir-parmar?tab=profile) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/StaticTesseract07) 
 
-# Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+
 # Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)   ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unreal%20engine-%23313131.svg?style=for-the-badge&logo=unreal-engine&logoColor=white)![VNC Viewer](https://img.shields.io/badge/VNC%20Viewer-%2300599C.svg?style=for-the-badge&logo=VNC-Viewer&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/visual%20studio%20code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
