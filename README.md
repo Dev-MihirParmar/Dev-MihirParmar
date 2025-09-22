@@ -18,7 +18,15 @@
 </h1>
 
 # 💫 About Me:
-**🔭 I’m currently working on Myself preparing for Jee 2025<br>👯 I’m looking to collaborate on building projects to help small scale agriculture sector,complex but effecient code<br>🤝 I’m looking for help with my metal state regrading studies and keeping my self motivated to continue my jee coaching<br>🌱 I’m currently learning docker,c#,Python,Servers,Scalability,Darkweb,.onion,gui,apis,everything as much as i can<br>💬 Ask me about electronic,devboards,opensource alternatives,solutions to problem at basic level<br>⚡Fun fact I live in a girls hostel**
+**🚀 Founder & Research-Driven Tech Polymath — self-taught dropout with a passion for innovation<br>
+🛠️ Work across Embedded Linux, Networking, UAVs, Robotics, IIoT, and AI/ML<br>
+🧠 Critical Thinker & Experimenter — from backend to frontend, Linux infrastructure, and system pipelines<br>
+🔍 Skilled in research, reverse engineering, and deep system analysis<br>
+⚙️ Experienced with DevOps, server building/management, and self-hosting<br>
+🤖 Explore everything from hosting & fine-tuning LLMs to complex embedded solutions<br>
+🎨 Strong in product design, interface design, and systems architecture<br>
+🔗 Bridge software ↔ hardware ↔ electronics to build reliable, high-impact solutions<br>
+🌱 Constantly learning, experimenting, and pushing boundaries to reimagine what technology can achieve**
 
 
 ## 🌐 Socials:
