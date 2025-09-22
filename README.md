@@ -24,7 +24,7 @@
 🔍 Skilled in research, reverse engineering, and deep system analysis<br>
 ⚙️ Experienced with DevOps, server building/management, self-hosting , Microcontroller & electronics Hardware<br>
 🤖 Explore everything from hosting & fine-tuning LLMs to complex embedded solutions<br>
-🎨 Strong in product design, interface design, and systems architecture<br>
+🎨 Strong in product design, UX/UI , and Systems Architecture<br>
 🔗 Bridge software ↔ hardware ↔ electronics to build reliable, high-impact solutions<br>
 🌱 Constantly learning, experimenting, and pushing boundaries to reimagine what technology can achieve**
 
